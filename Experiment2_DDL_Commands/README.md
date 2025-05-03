@@ -1,4 +1,6 @@
 # Experiment 2: DDL Commands
+### Name : Prajin S
+### Register Number : 212223230151
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
