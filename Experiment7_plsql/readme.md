@@ -1,5 +1,8 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
+## Name : Prajin S
+## Register Number : 212223230151
+
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
