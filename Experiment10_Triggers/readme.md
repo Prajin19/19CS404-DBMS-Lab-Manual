@@ -1,5 +1,8 @@
 # Experiment 10: PL/SQL – Triggers
 
+## Name : Prajin S
+## Register Number : 212223230151
+
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
